@@ -8,5 +8,6 @@ public class TryTry {
 	Date d = new Date();
 	System.out.println(d);
 	System.out.println("Error");
+	System.out.println("Push into Git");
 }
 }
